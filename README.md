@@ -13,18 +13,18 @@
 This document is prepared for P.I. Works technical assingment.<br/>
 UMS provides users ability of add users into a database, filter and sort users.<br/>
 
-## 1.2 Glossary
+### 1.1 Glossary
 
 - UMS: User Management System
 
-## Requirements
+## 2. Requirements
 
-### User & System Requirements
+### 2.1 User & System Requirements
 
-1. The UMS shall display existing users on a table.<br/>
-   1.1 When the UMS is loaded, it should display all the existing users, sorted by their IDs.<br/> 
-   1.2 The table shall display users' ID, username, email and enabled attributes.<br/>
-   1.3 Whenever a new user is pushed into the database, table should be updated accordingly.<br/>
+2.1.1. The UMS shall display existing users on a table.<br/>
+   2.1.1.1 When the UMS is loaded, it should display all the existing users, sorted by their IDs.<br/> 
+   2.1.1.2 The table shall display users' ID, username, email and enabled attributes.<br/>
+   2.1.1.3 Whenever a new user is pushed into the database, table should be updated accordingly.<br/>
 
 2. The UMS user shall be able to add new users.<br/>
    2.1 When the UMS user clicks to the "+New User" button, an empty new user form shall be displayed.<br/>
@@ -51,8 +51,8 @@ UMS provides users ability of add users into a database, filter and sort users.<
    5.2 The USM should sort users in ascending or descending order according to their ID.<br/>
    5.3 The USM should be able to sort users in alphabetical order according to their username or email.<br/>
 
-### Database Requirements
+### 2.2 Database Requirements
 
-### User Interface Requirements
+### 2.3 User Interface Requirements
 
 
