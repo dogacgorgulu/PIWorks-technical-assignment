@@ -3,7 +3,7 @@
 ## Requirements
 
 1. The user management screen shall display existing `user`s on a table.  
-   1.1 When the user management screen is loaded, it should display all the existing users, sorted by their IDs.  
+   1.1 When the user management screen is loaded, it should display all the existing `user`s, sorted by their `ID`s.  
    1.2 The table shall display users' `ID`, `username`, `email` and `enabled` attributes.  
    1.3 Whenever a new user pushed into the database, table should be updated accordingly.   
 
