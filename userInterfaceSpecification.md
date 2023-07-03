@@ -12,7 +12,7 @@
 2.2 Whenever a new user is added to the database, the table shall be updated accordingly.
 
 3. The user management screen shall be able to edit existing users' attributes.<br/>
-3.1 Whenever the UMS user clicks to a user on the table, selected user attributes shall be displayed.
+3.1 Whenever the UMS user clicks to a user on the table, selected user attributes shall be displayed.<br>
 3.2 UMS user shall be able to edit selected user's username, displayName, phone, and email by typing into the text boxes.
 3.3 UMS user shall be able to edit selected user's userRole by selecting from a dropdown box.
 3.4 UMS user shall be able to edit selected user's enabled attribute by check a check box labled "Enabled".
