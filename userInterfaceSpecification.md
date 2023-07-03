@@ -2,17 +2,16 @@
 
 ## Requirements
 
-1. The user management screen shall display existing users on a table.
-   1.1 a   
-  1.1 When the user management screen is loaded, it should display all the existing users.
-  1.2 The table shall display users' value of ID, username, email and enabled attributes.
-  1.3 Whenever a new user pushed into the database, table should be updated accordingly.
+1. The user management screen shall display existing users on a table.  
+   1.1 When the user management screen is loaded, it should display all the existing users.  
+   1.2 The table shall display users' value of ID, username, email and enabled attributes.  
+   1.3 Whenever a new user pushed into the database, table should be updated accordingly.  
 
-3. The user management screen shall be able to add new users.
+2. The user management screen shall be able to add new users.
 ...2.1 When the UMS user clicks to the "+New User" button, an empty new user instance, with unique ID shall be pushed to the database.
 ...2.2 Whenever a new user is added to the database, the table shall be updated accordingly.
 
-4. The user management screen shall be able to edit existing users' attributes.
+3. The user management screen shall be able to edit existing users' attributes.
 3.1 Whenever the UMS user clicks to a user on the table, selected user attributes shall be displayed.
 3.2 UMS user shall be able to edit selected user's username, displayName, phone, and email by typing into the text boxes.
 3.3 UMS user shall be able to edit selected user's userRole by selecting from a dropdown box.
