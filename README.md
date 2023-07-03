@@ -66,4 +66,17 @@ NOT DONE YET!!!
 
 ### User Interface Requirements
 
+#### User List
+
+A table displaying the list of users. Each row in the table shall include the following:<br/>
+- ID
+- Username
+- Email
+- Enabled
+
+Each cell in the header row shall include Sort and Filter buttons.<br/>
+
+#### User Form
+
+#### Header
 
