@@ -1,14 +1,21 @@
 # User Management Screen - User Interface Specification Document
 
 ## Table of Contents
-1. Introduction<br/>
-   1.1 Purpose<br/>
-   1.2 Application Overview<br/>
-   1.3 Important Terminology<br/>
+1. Preface<br/>
+   1.1 Glossary<br/>
 2. Requirements<br/>
    2.1 User & System Requirements<br/>
    2.2 Database Requirements<br/>
    2.3 User Interface Requirements<br/>
+
+## 1. Preface
+
+This document is prepared for P.I. Works technical assingment.<br/>
+UMS provides users ability of add users into a database, filter and sort users.<br/>
+
+## 1.2 Glossary
+
+- UMS: User Management System
 
 ## Requirements
 
@@ -44,6 +51,8 @@
    5.2 The USM should sort users in ascending or descending order according to their ID.<br/>
    5.3 The USM should be able to sort users in alphabetical order according to their username or email.<br/>
 
-## User Interface Components
+### Database Requirements
+
+### User Interface Requirements
 
 
