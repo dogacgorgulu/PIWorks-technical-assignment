@@ -12,6 +12,8 @@
 
 ## Requirements
 
+### User & System Requirements
+
 1. The UMS shall display existing users on a table.<br/>
    1.1 When the UMS is loaded, it should display all the existing users, sorted by their IDs.<br/> 
    1.2 The table shall display users' ID, username, email and enabled attributes.<br/>
