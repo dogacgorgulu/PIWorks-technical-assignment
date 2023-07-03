@@ -1,5 +1,15 @@
 # User Management Screen - User Interface Specification Document
 
+## Table of Contents
+1. Introduction<br/>
+   1.1 Purpose<br/>
+   1.2 Application Overview<br/>
+   1.3 Important Terminology<br/>
+2. Requirements<br/>
+   2.1 User & System Requirements<br/>
+   2.2 Database Requirements<br/>
+   2.3 User Interface Requirements<br/>
+
 ## Requirements
 
 1. The UMS shall display existing users on a table.<br/>
@@ -31,3 +41,7 @@
    5.1 The USM user shall be able to sort users on the table by their ID, username, email or state of being enabled.<br/>
    5.2 The USM should sort users in ascending or descending order according to their ID.<br/>
    5.3 The USM should be able to sort users in alphabetical order according to their username or email.<br/>
+
+## User Interface Components
+
+
