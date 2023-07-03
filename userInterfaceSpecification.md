@@ -27,8 +27,8 @@
    4.4 The USM user shall be able to filter users on the table by their emails.  
    4.5 The USM user shall be able to filter users on the table by their state of being enabled.  
 
-5. The user management screen shall be able to sort users by their attributes.
-   5.1 The USM user shall be able to sort users on the table by their IDs.
-   5.2 The USM user shall be able to sort users on the table by their usernames.
-   5.3 The USM user shall be able to sort users on the table by their emails.
-   5.4 The USM user shall be able to sort users on the table by their state of being enabled.
+5. The user management screen shall be able to sort users by their attributes.  
+   5.1 The USM user shall be able to sort users on the table by their IDs.  
+   5.2 The USM user shall be able to sort users on the table by their usernames.  
+   5.3 The USM user shall be able to sort users on the table by their emails.  
+   5.4 The USM user shall be able to sort users on the table by their state of being enabled.  
