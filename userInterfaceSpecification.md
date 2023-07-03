@@ -1,19 +1,9 @@
 # User Management Screen - User Interface Specification Document
-1. First item
-   1.1 Sub-item
-   1.2 Sub-item
-   1.3 Sub-item
-   1.4 Sub-item
-2. Second item
-   2.1 Sub-item
-   2.2 Sub-item
-   2.3 Sub-item
-   2.4 Sub-item
 
 ## Requirements
 
 1. The user management screen shall display existing users on a table.
-   
+   1.1 a   
   1.1 When the user management screen is loaded, it should display all the existing users.
   1.2 The table shall display users' value of ID, username, email and enabled attributes.
   1.3 Whenever a new user pushed into the database, table should be updated accordingly.
