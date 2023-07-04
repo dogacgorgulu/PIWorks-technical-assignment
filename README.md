@@ -1,7 +1,7 @@
 # User Management Screen - User Interface Specification Document
 
 ## Table of Contents
-1. [Preface](preface)<br/>
+1. [Preface](#preface)<br/>
    1.1 [Glossary](#2)<br/>
 2. [Requirements](#3)<br/>
    2.1 [User & System Requirements](#4)<br/>
