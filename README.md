@@ -52,16 +52,17 @@ UMS provides users ability of add users into a database, filter and sort users.<
    5.3 The USM should be able to sort users in alphabetical order according to their username or email.<br/>
 
 ### Database Requirements
-NOT DONE YET!!!
+
+**user**
 | Column Name   | Data Type     |
 | ------------- | ------------- |
-| ID  | unsigned int  |
-| username  | VARCHAR[50]  |
-| displayName  | CHAR[50]  |
-| phone  | INT[50]  |
-| email  | VARCHAR[50]  |
-| userrole  | VARCHAR[50]  |
-| enabled  | BOOLEAN[50]  |
+| ID  | UNSIGNED INT  |
+| username  | VARCHAR  |
+| displayName  | VARCHAR  |
+| phone  | INT  |
+| email  | VARCHAR  |
+| userrole  | VARCHAR  |
+| enabled  | BOOL  |
 
 
 ### User Interface Requirements
