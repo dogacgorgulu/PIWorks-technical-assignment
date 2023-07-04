@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Preface](#preface)<br/>
-   1.1 [Glossary](#2)<br/>
-2. [Requirements](#3)<br/>
-   2.1 [User & System Requirements](#4)<br/>
-   2.2 [Database Requirements](#5)<br/>
+   1.1 [Glossary](#glossary)<br/>
+2. [Requirements](#requirements)<br/>
+   2.1 [User & System Requirements](#user-&-system-requirements)<br/>
+   2.2 [Database Requirements](#database-requirements)<br/>
    2.3 [User Interface Requirements](#user-interface-requirements)<br/>
 
 ## Preface
