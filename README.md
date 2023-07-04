@@ -6,20 +6,20 @@
 2. [Requirements](#3)<br/>
    2.1 [User & System Requirements](#4)<br/>
    2.2 [Database Requirements](#5)<br/>
-   2.3 [User Interface Requirements](###user-interface-requirements)<br/>
+   2.3 [User Interface Requirements](#user-interface-requirements)<br/>
 
-## Preface {#1}
+## Preface
 
 This document is prepared for P.I. Works technical assingment.<br/>
 UMS provides users ability of add users into a database, filter and sort users.<br/>
 
-### Glossary{#2}
+### Glossary
 
 - UMS: User Management System
 
-## Requirements{#3}
+## Requirements
 
-### User & System Requirements{#4}
+### User & System Requirements
 
 1. The UMS shall display existing users on a table.<br/>
    1.1 When the UMS is loaded, it should display all the existing users, sorted by their IDs.<br/> 
@@ -51,7 +51,7 @@ UMS provides users ability of add users into a database, filter and sort users.<
    5.2 The USM should sort users in ascending or descending order according to their ID.<br/>
    5.3 The USM should be able to sort users in alphabetical order according to their username or email.<br/>
 
-### Database Requirements{#5}
+### Database Requirements
 
 `user`
 | Column Name   | Data Type     |
@@ -65,9 +65,9 @@ UMS provides users ability of add users into a database, filter and sort users.<
 | enabled  | BOOL  |
 
 
-### User Interface Requirements{#6}
+### User Interface Requirements
 
-#### User List{#7}
+#### User List
 
 A table displaying the list of users. Each row in the table shall include the following:<br/>
 - ID
@@ -77,7 +77,7 @@ A table displaying the list of users. Each row in the table shall include the fo
 
 Each cell in the header row shall include Sort and Filter buttons.<br/>
 
-#### User Form{#8}
+#### User Form
 
 A form to create a new `user`. The form shall include the following:<br/>
 
@@ -89,7 +89,7 @@ A form to create a new `user`. The form shall include the following:<br/>
 - User Roles (required, dropdown menu containing: Guest, Admin, SuperAdmin)
 - Enabled (required, check box)
 
-#### Header{#9}
+#### Header
 
 A header shall include the following:
 
