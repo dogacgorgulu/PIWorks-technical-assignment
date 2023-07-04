@@ -61,7 +61,7 @@ UMS provides users ability of add users into a database, filter and sort users.<
 | displayName  | VARCHAR  |
 | phone  | INT  |
 | email  | VARCHAR  |
-| userrole  | VARCHAR  |
+| userRole  | VARCHAR  |
 | enabled  | BOOL  |
 
 
