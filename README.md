@@ -27,11 +27,11 @@ UMS provides users ability of add users into a database, filter and sort users.<
    1.3 Whenever a new user is pushed into the database, table should be updated accordingly.<br/>
 
 2. The UMS user shall be able to add new users.<br/>
-   2.1 When the UMS user clicks to the "+New User" button, an empty new user form shall be displayed with "New User" form header.<br/>
+   2.1 When the UMS user clicks to the "New User" button, an empty new user form shall be displayed with "New User" form header.<br/>
    2.2 The UMS user shall be able to type into text boxes to fill username, displayName, phone, and email attributes.<br/>
    2.3 The UMS user shall be able to select userRole from a dropdown box.<br/>
    2.4 The UMS user shall be able to select if the new user is enabled by checking a check box.<br/>
-   2.5 When the UMS user clicks to the "Save User" button, UMS shall check if all the attributes meet their requirements. If met, a unique ID shall be created for indexing and UMS saves the new user, otherwise display an error text.<br/>
+   2.5 When the UMS user clicks to the "Save User" button, UMS shall check if all the attributes meet their requirements. If met, a unique ID shall be created for indexing and UMS saves the new user, otherwise it should display an error text.<br/>
    2.6 Whenever a new user is added to the database, the table shall be updated accordingly.<br/>
    
 3. The UMS user shall be able to edit existing users' attributes.<br/>
@@ -53,7 +53,7 @@ UMS provides users ability of add users into a database, filter and sort users.<
 
 ### Database Requirements
 
-**user**
+`user`
 | Column Name   | Data Type     |
 | ------------- | ------------- |
 | ID  | UNSIGNED INT  |
@@ -79,7 +79,7 @@ Each cell in the header row shall include Sort and Filter buttons.<br/>
 
 #### User Form
 
-A form to create a new **user**. The form shall include the following:<br/>
+A form to create a new `user`. The form shall include the following:<br/>
 
 - Form Header ("New User", "Edit User + {ID}")
 - Username (required, alphanumeric)
@@ -90,4 +90,10 @@ A form to create a new **user**. The form shall include the following:<br/>
 - Enabled (required, check box)
 
 #### Header
+
+A header shall include the following:
+
+-New User (button) (see 2.1)
+-Save User (button) (see 3.5)
+-Hide Disabled User (check box) (see 4.1)
 
