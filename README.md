@@ -4,7 +4,7 @@
 1. [Preface](#preface)<br/>
    1.1 [Glossary](#glossary)<br/>
 2. [Requirements](#requirements)<br/>
-   2.1 [User & System Requirements](#user-system-requirements)<br/>
+   2.1 [User Requirements](#user-requirements)<br/>
    2.2 [Database Requirements](#database-requirements)<br/>
    2.3 [User Interface Requirements](#user-interface-requirements)<br/>
 
@@ -19,7 +19,7 @@ UMS provides users ability of add users into a database, filter and sort users.<
 
 ## Requirements
 
-### User & System Requirements
+### User Requirements
 
 1. The UMS shall display existing users on a table.<br/>
    1.1 When the UMS is loaded, it should display all the existing users, sorted by their IDs.<br/> 
