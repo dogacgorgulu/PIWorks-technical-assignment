@@ -93,7 +93,7 @@ A form to create a new `user`. The form shall include the following:<br/>
 
 A header shall include the following:<br/>
 
--New User (button) (see 2.1)
--Save User (button) (see 3.5)
--Hide Disabled User (check box) (see 4.1)
+- New User (button) (see 2.1 under User Requirements)
+- Save User (button) (see 3.5 under User Requirements)
+- Hide Disabled User (check box) (see 4.1 under User Requirements)
 
