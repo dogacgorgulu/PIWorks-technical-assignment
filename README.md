@@ -27,7 +27,7 @@ UMS provides users ability of add users into a database, filter and sort users.<
    1.3 Whenever a new user is pushed into the database, table should be updated accordingly.<br/>
 
 2. The UMS user shall be able to add new users.<br/>
-   2.1 When the UMS user clicks to the "+New User" button, an empty new user form shall be displayed.<br/>
+   2.1 When the UMS user clicks to the "+New User" button, an empty new user form shall be displayed with "New User" form header.<br/>
    2.2 The UMS user shall be able to type into text boxes to fill username, displayName, phone, and email attributes.<br/>
    2.3 The UMS user shall be able to select userRole from a dropdown box.<br/>
    2.4 The UMS user shall be able to select if the new user is enabled by checking a check box.<br/>
@@ -35,7 +35,7 @@ UMS provides users ability of add users into a database, filter and sort users.<
    2.6 Whenever a new user is added to the database, the table shall be updated accordingly.<br/>
    
 3. The UMS user shall be able to edit existing users' attributes.<br/>
-   3.1 Whenever the UMS user clicks to a user on the table, selected user attributes shall be displayed.<br/>
+   3.1 Whenever the UMS user clicks to a user on the table, selected user's form with it's attributes shall be displayed with "Edit User + {ID}" form header..<br/>
    3.2 UMS user shall be able to edit selected user's username, displayName, phone, and email by typing into the text boxes.<br/>
    3.3 UMS user shall be able to edit selected user's userRole by selecting from a dropdown box.<br/>
    3.4 UMS user shall be able to edit selected user's enabled attribute by check a check box labled "Enabled".<br/>
@@ -78,6 +78,16 @@ A table displaying the list of users. Each row in the table shall include the fo
 Each cell in the header row shall include Sort and Filter buttons.<br/>
 
 #### User Form
+
+A form to create a new **user**. The form shall include the following:<br/>
+
+- Form Header ("New User", "Edit User + {ID}")
+- Username (required, alphanumeric)
+- Display Name (required, alphanumeric)
+- Phone (required, numeric)
+- Email (required, email format)
+- User Roles (required, dropdown menu containing: Guest, Admin, SuperAdmin)
+- Enabled (required, check box)
 
 #### Header
 
