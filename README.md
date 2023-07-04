@@ -91,7 +91,7 @@ A form to create a new `user`. The form shall include the following:<br/>
 
 #### Header
 
-A header shall include the following:
+A header shall include the following:<br/>
 
 -New User (button) (see 2.1)
 -Save User (button) (see 3.5)
