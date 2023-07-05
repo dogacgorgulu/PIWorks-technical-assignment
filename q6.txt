@@ -1,0 +1,9 @@
+Q6: Please estimate the number of base stations in Istanbul by explaining how you estimated this number.
+
+First solution I instantly came up with dividing area of Istanbul to area of an average base station affects but since I have zero background on how base stations work or installed, I would follow the following method.
+
+I would gather group of countries which are close to Turkey according to an index (such as HDI, GDP per capita or telecommunication companies' annual revenue) might be correlated with average base stations per km^2 installed.
+Then I would try to find a data set of these countries' base station count per km^2.
+Lastly, I would make my guess depending on the area of Istanbul.
+
+It would be better to estimate based on similar cities instead of countries. Also instead of only consideing area of Istanbul, considering both shape and area of Istanbul might result better.
